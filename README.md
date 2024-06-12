@@ -31,7 +31,7 @@ To set up this template, follow these steps:
 
 1. Clone the repository.
 ```bash
-https://github.com/LuffyThePirateKing2023/foodie-restaurant-app.git
+git clone https://github.com/LuffyThePirateKing2023/foodie-restaurant-app.git
 ```
 3. Install dependencies using `npm install` or `yarn install`.
 
