@@ -29,7 +29,7 @@ Currently, two official plugins are available:
 
 To set up this template, follow these steps:
 
-1. Clone the repository.
+1. Clone the repository. copy this command git clone https://github.com/LuffyThePirateKing2023/foodie-restaurant-app.git
 2. Install dependencies using `npm install` or `yarn install`.
 
 ## Usage
